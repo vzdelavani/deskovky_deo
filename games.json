@@ -620,7 +620,213 @@
   "narocnost": "jednoducha",
   "zanr": ["rodinne"],
   "tema": "zviratka"
+},
+{
+  "nazev": "Liška podšitá",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Liška podšitá: Duet",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["kooperativni", "logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Desítka! Junior",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci", "party"],
+  "tema": null
+},
+{
+  "nazev": "IQ Fitness Tangram",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Bobří klan",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoeducha",
+  "zanr": ["rodinne", "postrehove"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Modrá kráva",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Balíkáři",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Taco kočka koza sýr pizza",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": null
+},
+{
+  "nazev": "Desítka! Česko",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci"],
+  "tema": null"
+},
+{
+  "nazev": "Výbušná koťátka: Strakatá koťátka",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Harry Potter: Kouzelní tvorové",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Trosečníci",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["kooperativni"],
+  "tema": "dobrodruzstvi"
+},
+{
+  "nazev": "Hlavně klid!",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Šampioni jablečného království",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne"],
+  "tema": "zviratka"
+},
+{
+  "nazev": "Myriorama: Tajemné sídlo",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kreativni"],
+  "tema": null
+},
+{
+  "nazev": "Osadníci z Katanu – karetní hra",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "60+ minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Balancuj! Na cesty",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni"],
+  "tema": null
+},
+{
+  "nazev": "Kvído – Bingo na výlety",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Splášený kuře",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Railroad Ink: Ohnivě rudá edice",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "budovatelske"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Catan – základní hra",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)"],
+  "herni_doba": "60+ minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Výbušná koťátka: Štěkající koťátka",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Taco čepka dort dárek pizza",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": null
 }
-
  ]
 }
