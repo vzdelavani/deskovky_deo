@@ -1,4 +1,6 @@
 {
+  "games": [
+{
   "nazev": "Párty Alias Pro děti",
   "vek": ["6-8", "9-12"],
   "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
@@ -105,4 +107,6 @@
   "narocnost": "jednoduchá",
   "zanr": ["vzdělávací"],
   "tema": null
+},
+ ]
 }
