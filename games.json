@@ -344,7 +344,7 @@
 },
 {
   "nazev": "Tři na tři",
-  "vek": ["3-5", "6-8"]
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
