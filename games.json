@@ -551,7 +551,7 @@
 },
 {
   "nazev": "Bum Bum Burrito",
-  "vek": ["6-8", "9-12", "13+],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 15 minut",
   "narocnost": "stredni",
