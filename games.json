@@ -100,13 +100,149 @@
   "tema": null
 },
 {
-  "nazev": "Agátin svět – Učíme se počítat",
+  "nazev": "Učíme se počítat",
   "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro jednoho", "pro dva"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["vzdelavaci"],
+  "zanr": ["vzdelavaci", "zrucnostni"],
   "tema": null
-}
+},
+  "nazev": "Verbindungsspiel „Blümchen“ - dřevěná spojovací hra květina",
+  "vek": ["3-5", "6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni"],
+  "tema": null
+  },
+{
+  "nazev": "Duchová v koupelně",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Takový nepořádek",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Žabky",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "zrucnostni"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Alenka v říši divů",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Kočkombat",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Přes železnou oponu",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "vzdelavaci"],
+  "tema": "historie"
+},
+{
+  "nazev": "Smíšený les",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "logicke"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Kvído – Najdi zvíře",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Hra do auta – Značky",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Hra do auta – Bingo",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "logicke"],
+  "tema": null
+},
+{
+  "nazev": "Kvído – Najdi rozdíl",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "logicke"],
+  "tema": null
+},
+{
+  "nazev": "Kvído – Tref komára!",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Kvído – Mláďata v kostce",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci", "postrehove"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Kvído – Zachraň poklad",
+  "vek": ["4-8"],
+  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "zrucnostni"],
+  "tema": "dobrodruzstvi"
+},
+
+
  ]
 }
