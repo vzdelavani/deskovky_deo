@@ -368,6 +368,259 @@
   "narocnost": "jednoducha",
   "zanr": ["zrucnostni", "rodinne"],
   "tema": "pohadky"
+},
+{
+  "nazev": "Popelka",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne", "pribehove"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Moje první hra",
+  "vek": ["3-5"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Nalož Tatru!",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Dobble 1-2-3",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": null
+},
+{
+  "nazev": "Paměťovky – Fialová koťátka",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Čtenářská věž",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Algy programuje – Tvůrčí algoritmy",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Hoď a objevuj",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Počítání v hrsti",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Slova v hrsti",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Kvídovo rybaření",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni"],
+  "tema": null
+},
+{
+  "nazev": "Matěj a Kačka – Hledej, najdi!",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Listí",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne", "logicke"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Listí: Medvědí období",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne", "logicke"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Lapač snů",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "King of the Dice",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "party"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Kronika dobrodružství: Cesta za měsíčními kameny",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["pribehove"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Where Is the Cheese?",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Hrdinové hlubokého hvozdu",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne", "pribehove"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Cáklé – Safari",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Bum Bum Burrito",
+  "vek": ["6-8", "9-12", "13+],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["party", "postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Zachraňte příšerky!",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kooperativni", "rodinne"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "UNO",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Ptačí napětí",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Potomac",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Ovocný sad – Moje první hry",
+  "vek": ["0-2", "3-5"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kooperativni", "rodinne"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Minecraft: Heroes of the Village",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["kooperativni", "rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Little Lucky",
+  "vek": ["0-2"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "zviratka"
 }
+
  ]
 }
