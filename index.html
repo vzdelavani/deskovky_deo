@@ -185,6 +185,37 @@
 <script>
 let games = [];
 
+const labels = {
+  narocnost: {
+    jednoducha: "Jednoduchá",
+    stredni: "Střední",
+    narocnejsi: "Náročnější"
+  },
+  zanr: {
+    kooperativni: "Kooperativní",
+    logicke: "Logické",
+    kreativni: "Kreativní",
+    rodinne: "Rodinné",
+    postrehove: "Postřehové",
+    pribehove: "Příběhové",
+    vzdelavaci: "Vzdělávací",
+    zrucnostni: "Zručnostní",
+    party: "Párty",
+    budovatelske: "Budovatelské"
+  },
+  tema: {
+    fantasy_mytologie: "Fantasy a mytologie",
+    pohadky: "Pohádky",
+    zvirata: "Zvířata",
+    priroda: "Příroda",
+    dinosauri: "Dinosauři",
+    dobrodruzstvi: "Dobrodružství",
+    jidlo: "Jídlo",
+    doprava: "Doprava"
+  }
+};
+
+  
 fetch("./games.json")
   .then(res => res.json())
   .then(data => {
