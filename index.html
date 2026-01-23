@@ -240,9 +240,9 @@ function renderGames(list) {
       Věk: ${game.vek.join(", ")}<br>
       Počet hráčů: ${game.pocet_hracu.join(", ")}<br>
       Herní doba: ${game.herni_doba}<br>
-      Náročnost: ${game.narocnost}<br>
-      Žánr: ${game.zanr.join(", ")}<br>
-      Téma: <span class="tema">${game.tema ?? "—"}</span>
+      Náročnost: ${labels.narocnost[game.narocnost] ?? game.narocnost}<br>
+      Žánr: ${game.zanr.map(z => labels.zanr[z] ?? z).join(", ")}<br>
+      Téma: <span class="tema">${labels.tema[game.tema] ?? "—"}</span>
       <hr>
     `;
     results.appendChild(div);
