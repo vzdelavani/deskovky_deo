@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Výběr deskových her – dětské oddělení</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .filter-table {
+      max-width: 520px;
+      background: #f0f4f8;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    }
+
+    .filter-row {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      align-items: center;
+      margin-bottom: 12px;
+      gap: 10px;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    select {
+      padding: 6px;
+      font-size: 14px;
+    }
+
+    .actions {
+      margin-top: 20px;
+    }
+
+    button {
+      padding: 8px 16px;
+      font-size: 15px;
+      cursor: pointer;
+      background: #2b6cb0;
+      color: white;
+      border: none;
+      border-radius: 6px;
+    }
+
+    button:hover {
+      background: #234e87;
+    }
+
+    #results {
+      margin-top: 30px;
+      max-width: 720px;
+    }
+
+    .game-row {
+      background: #f7f7f7;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin-bottom: 15px;
+    }
+
+    .game-row strong {
+      font-size: 17px;
+    }
+
+    .game-row hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin-top: 10px;
+    }
+
+    .game-row span.tema {
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Vyberte deskovou hru – dětské oddělení</h1>
+
+<form id="filters" class="filter-table">
+
+  <!-- VĚK -->
+  <div class="filter-row">
+    <label for="vek">Věk hráčů</label>
+    <select id="vek">
+      <option value="">Nezáleží</option>
+      <option value="0-2">0–2 roky</option>
+      <option value="3-5">3–5 let</option>
+      <option value="6-8">6–8 let</option>
+      <option value="9-12">9–12 let</option>
+      <option value="13+">13+</option>
+    </select>
+  </div>
+
+  <!-- POČET HRÁČŮ -->
+  <div class="filter-row">
+    <label for="pocet-hracu">Počet hráčů</label>
+    <select id="pocet-hracu">
+      <option value="">Nezáleží</option>
+      <option value="pro jednoho">Pro jednoho</option>
+      <option value="pro dva">Pro dva</option>
+      <option value="malá skupina (3-4)">Malá skupina (3–4)</option>
+      <option value="větší skupina (5+)">Větší skupina (5+)</option>
+    </select>
+  </div>
+
+  <!-- HERNÍ DOBA -->
+  <div class="filter-row">
+    <label for="herni-doba">Herní doba</label>
+    <select id="herni-doba">
+      <option value="">Nezáleží</option>
+      <option value="do 30 minut">Do 30 minut</option>
+      <option value="30-60 minut">30–60 minut</option>
+      <option value="60+ minut">60+ minut</option>
+    </select>
+  </div>
+
+  <!-- NÁROČNOST -->
+  <div class="filter-row">
+    <label for="narocnost">Náročnost</label>
+    <select id="narocnost">
+      <option value="">Nezáleží</option>
+      <option value="jednoduchá">Jednoduchá</option>
+      <option value="střední">Střední</option>
+      <option value="náročnější">Náročnější</option>
+    </select>
+  </div>
+
+  <!-- ŽÁNR -->
+  <div class="filter-row">
+    <label for="zanr">Žánr</label>
+    <select id="zanr">
+      <option value="">Nezáleží</option>
+      <option value="kooperativní">Kooperativní</option>
+      <option value="logické">Logické</option>
+      <option value="kreativní">Kreativní</option>
+      <option value="rodinné">Rodinné</option>
+      <option value="postřehové">Postřehové</option>
+      <option value="příběhové">Příběhové</option>
+      <option value="vzdělávací">Vzdělávací</option>
+      <option value="zručnostní">Zručnostní</option>
+      <option value="párty">Párty</option>
+      <option value="budovatelské">Budaovatelské</option>
+    </select>
+  </div>
+
+  <!-- TÉMA -->
+  <div class="filter-row">
+    <label for="tema">Téma</label>
+    <select id="tema">
+      <option value="">Nezáleží</option>
+      <option value="fantasy a mytologie">Fantasy a mytologie</option>
+      <option value="pohadky">Pohádky</option>
+      <option value="zvirata">Zvířata</option>
+      <option value="priroda">Příroda</option>
+      <option value="dinosauri">Dinosauři</option>
+      <option value="dobrodruzstvi">Dobrodružství</option>
+      <option value="jidlo">Jídlo</option>
+    </select>
+  </div>
+
+  <div class="actions">
+    <button type="button" id="search-btn">Hledat</button>
+  </div>
+
+</form>
+
+<div id="results"></div>
+
+<script>
+let games = [];
+
+fetch("./games.json")
+  .then(res => res.json())
+  .then(data => {
+    games = data.games;
+    renderGames(games);
+  });
+
+function renderGames(list) {
+  const results = document.getElementById("results");
+  results.innerHTML = "";
+
+  if (list.length === 0) {
+    results.innerHTML = "<p>Žádné hry nevyhovují filtru.</p>";
+    return;
+  }
+
+  list.forEach(game => {
+    const div = document.createElement("div");
+    div.classList.add("game-row");
+    div.innerHTML = `
+      <strong>${game.nazev}</strong><br>
+      Věk: ${game.vek.join(", ")}<br>
+      Počet hráčů: ${game.pocet_hracu.join(", ")}<br>
+      Herní doba: ${game.herni_doba}<br>
+      Náročnost: ${game.narocnost}<br>
+      Žánr: ${game.zanr.join(", ")}<br>
+      Téma: <span class="tema">${game.tema ?? "—"}</span>
+      <hr>
+    `;
+    results.appendChild(div);
+  });
+}
+
+document.getElementById("search-btn").addEventListener("click", () => {
+  const selVek = document.getElementById("vek").value;
+  const selHraci = document.getElementById("pocet-hracu").value;
+  const selDoba = document.getElementById("herni-doba").value;
+  const selNarocnost = document.getElementById("narocnost").value;
+  const selZanr = document.getElementById("zanr").value;
+  const selTema = document.getElementById("tema").value;
+
+  const filtered = games.filter(game => {
+    if (selVek && !game.vek.includes(selVek)) return false;
+    if (selHraci && !game.pocet_hracu.includes(selHraci)) return false;
+    if (selDoba && game.herni_doba !== selDoba) return false;
+    if (selNarocnost && game.narocnost !== selNarocnost) return false;
+    if (selZanr && !game.zanr.includes(selZanr)) return false;
+    if (selTema && game.tema !== selTema) return false;
+    return true;
+  });
+
+  renderGames(filtered);
+});
+</script>
+
+</body>
+</html>
