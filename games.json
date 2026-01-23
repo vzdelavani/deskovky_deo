@@ -3,7 +3,7 @@
 {
   "nazev": "Párty Alias Pro děti",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsí skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
   "zanr": ["party", "postrehove"],
@@ -21,7 +21,7 @@
 {
   "nazev": "Želví skluzavka",
   "vek": ["3-5", "6-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
   "zanr": ["zrucnostní", "rodinne"],
@@ -116,7 +116,7 @@
   "narocnost": "jednoducha",
   "zanr": ["zrucnostni"],
   "tema": null
-  },
+},
 {
   "nazev": "Duchová v koupelně",
   "vek": ["6-8", "9-12"],
@@ -183,7 +183,7 @@
 {
   "nazev": "Kvído – Najdi zvíře",
   "vek": ["4-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
   "zanr": ["postrehove", "vzdelavaci"],
@@ -237,7 +237,7 @@
 {
   "nazev": "Kvído – Zachraň poklad",
   "vek": ["4-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
   "zanr": ["logicke", "zrucnostni"],
