@@ -262,14 +262,35 @@ document.getElementById("search-btn").addEventListener("click", () => {
   const selTema = document.getElementById("tema").value;
 
   const filtered = games.filter(game => {
-    if (selVek && !game.vek.includes(selVek)) return false;
-    if (selHraci && !game.pocet_hracu.includes(selHraci)) return false;
-    if (selDoba && game.herni_doba !== selDoba) return false;
-    if (selNarocnost && game.narocnost !== selNarocnost) return false;
-    if (selZanr && !game.zanr.includes(selZanr)) return false;
-    if (selTema && game.tema !== selTema) return false;
-    return true;
-  });
+
+  if (selVek && game.vek && !game.vek.includes(selVek)) {
+    return false;
+  }
+
+  if (selHraci && !game.pocet_hracu.includes(selHraci)) {
+    return false;
+  }
+
+  if (selDoba && game.herni_doba !== selDoba) {
+    return false;
+  }
+
+  if (selNarocnost && game.narocnost !== selNarocnost) {
+    return false;
+  }
+
+  if (selZanr && !game.zanr.includes(selZanr)) {
+    return false;
+  }
+
+  if (selTema && game.tema !== selTema) {
+    return false;
+  }
+
+  return true;
+});
+
+
 
   renderGames(filtered);
 });
