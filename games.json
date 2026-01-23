@@ -238,11 +238,136 @@
   "nazev": "Kvído – Zachraň poklad",
   "vek": ["4-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
-  "herni_doba": "do 30 minut",
-  "narocnost": "stredni",
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
   "zanr": ["logicke", "zrucnostni"],
   "tema": "dobrodruzstvi"
-}
-
+},
+{
+  "nazev": "Taco, kotě, pizza",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["karetni", "logicke", "postrehove"],
+  "tema": "popkultura"
+},
+{
+  "nazev": "Draci strážce",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["fantasy"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Fotbalek",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["sportovni", "zrucnostni"],
+  "tema": "sport"
+},
+{
+  "nazev": "Ovčí orchestr a ukradená nota",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Similo – Harry Potter",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "kooperativni"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "Similo – Strašidla",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "kooperativni"],
+  "tema": null
+},
+{
+  "nazev": "Kvído – Závod barev",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Hra do auta – Kvízy",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Fakt hluční knihovníci",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "rodinne", "party"],
+  "tema": null
+},
+{
+  "nazev": "Syslíci",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Výbušná koťátka",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "postrehove"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Tři na tři",
+  "vek": ["3-5", "6-8"]
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Moje první hry",
+  "vek": ["3-5"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci", "logicke"],
+  "tema": null
+},
+{
+  "nazev": "PAW Patrol – Věž",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni", "rodinne"],
+  "tema": "pohadky"
+},
  ]
 }
