@@ -3,19 +3,19 @@
 {
   "nazev": "Párty Alias Pro děti",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsí skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "narocnost": "střední",
-  "zanr": ["párty", "postřehové"],
+  "narocnost": "stredni",
+  "zanr": ["party", "postrehove"],
   "tema": null
 },
 {
   "nazev": "Pantolino",
   "vek": ["3-5", "6-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["zručnostní", "logické"],
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni", "logicke"],
   "tema": "zvirata"
 },
 {
@@ -23,80 +23,80 @@
   "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
   "herni_doba": "do 15 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["zručnostní", "rodinné"],
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostní", "rodinne"],
   "tema": "zvirata"
 },
 {
   "nazev": "Bylo nebylo",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "narocnost": "střední",
-  "zanr": ["logické", "příběhové"],
+  "narocnost": "stredni",
+  "zanr": ["logicke", "pribehove"],
   "tema": "fantasy_mytologie"
 },
 {
   "nazev": "Spící královny",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoduchá",
-  "zanr": ["logické", "rodinné"],
-  "tema": "pohádky"
+  "zanr": ["logicke", "rodinne"],
+  "tema": "pohadky"
 },
 {
   "nazev": "Spící královny 2: Králové v nesnázích",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["logické", "rodinné"],
-  "tema": "pohádky"
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "rodinne"],
+  "tema": "pohadky"
 },
 {
   "nazev": "Feelinks – Hra emocí",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "narocnost": "střední",
-  "zanr": ["vzdělávací", "rodinné"],
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci", "rodinne"],
   "tema": null
 },
 {
   "nazev": "Paměťovky – Prase v přestrojení",
   "vek": ["3-5", "6-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["logické", "rodinné"],
+  "narocnost": "jednoducha",
+  "zanr": ["logicke", "rodinne"],
   "tema": "zvirata"
 },
 {
   "nazev": "Cars 3 – Piston Cup",
   "vek": ["3-5", "6-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["rodinné", "postřehové"],
-  "tema": "pohádky"
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne", "postrehove"],
+  "tema": "pohadky"
 },
 {
   "nazev": "Kvído – Doprava v kostce",
   "vek": ["6-8", "9-12"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "narocnost": "střední",
-  "zanr": ["vzdělávací"],
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci"],
   "tema": "doprava"
 },
 {
   "nazev": "Vilac – Dřevěná balanční hra Velryba",
   "vek": ["3-5", "6-8"],
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["zručnostní", "rodinné"],
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni", "rodinne"],
   "tema": null
 },
 {
@@ -104,8 +104,8 @@
   "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro jednoho", "pro dva"],
   "herni_doba": "do 30 minut",
-  "narocnost": "jednoduchá",
-  "zanr": ["vzdělávací"],
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
   "tema": null
 },
  ]
