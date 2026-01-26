@@ -2933,6 +2933,177 @@
     "narocnost": "stredni",
     "zanr": ["party", "logicke"],
     "tema": null
+  },
+  {
+    "nazev": "Múza",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["party", "kreativni"],
+    "tema": null
+  },
+  {
+    "nazev": "Kloboučku, hop!",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni"],
+    "tema": null
+  },
+  {
+    "nazev": "Krycí jména: Kódová jména",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["party", "logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "V kostce: Praha",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": null
+  },
+  {
+    "nazev": "Carcassonne",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["budovatelske", "rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Karak",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne", "dobrodruzne"],
+    "tema": "fantasy_mytologie"
+  },
+  {
+    "nazev": "Activity Junior",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "SMART: Piráti – schovej a najdi",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["logicke"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Zombie Kidz: Evoluce",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["kooperativni", "rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Takenoko",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne", "budovatelske"],
+    "tema": "priroda"
+  },
+  {
+    "nazev": "Lidské tělo: Mysli a spojuj",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": null
+  },
+  {
+    "nazev": "SMART: Chytrý farmář",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["logicke"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Kingdomino: Lovci mamutů",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["budovatelske"],
+    "tema": null
+  },
+  {
+    "nazev": "Kvído: Zdravouš a Mlsanda",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": null
+  },
+  {
+    "nazev": "Hrachouni",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Co tě žere?",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "Záchod",
+    "vek": ["6*8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "Povídačky na cesty",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["kreativni"],
+    "tema": null
+  },
+  {
+    "nazev": "Moje první Česko",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": null
   }
 
 ]
