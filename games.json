@@ -1277,7 +1277,197 @@
     "narocnost": "stredni",
     "zanr": ["logicke"],
     "tema": null
-  }
+  },
+  {
+  "nazev": "Vyžeň krysu",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "zrucnostni"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Kdo jsem?",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Dobble Kids",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": null
+},
+{
+  "nazev": "V kostce: Moje první obrázky",
+  "vek": ["3-5"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Slovní jízda",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party", "vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Barevný kód",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Kvadrilion",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Pátý přes devátý",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Auto blok",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Černé historky",
+  "vek": ["13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Černé historky 2",
+  "vek": ["13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Černé historky 3",
+  "vek": ["13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Kontrolní věž – letiště",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Vlci a ovce",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Mistr slova",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci", "party"],
+  "tema": null
+},
+{
+  "nazev": "Tropicano",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Inspektor: Kdo je to?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Hlavolam – Puzzle Míša",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Speed Cups",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "zrucnostni"],
+  "tema": null
+},
+{
+  "nazev": "Cortex Challenge",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "logicke"],
+  "tema": null
+},
+{
+  "nazev": "Cortex 2 Challenge",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "logicke"],
+  "tema": null
+}
+
 ]
 }
 
