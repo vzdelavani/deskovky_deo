@@ -2687,7 +2687,7 @@
   "vek": ["9-12", "13+"],
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "narocnost": "jedenoducha",
+  "narocnost": "jednoducha",
   "zanr": ["party"],
   "tema": null
 },
