@@ -24,7 +24,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
-  "zanr": ["zrucnostní", "rodinne"],
+  "zanr": ["zrucnostni", "rodinne"],
   "tema": "zvirata"
 },
 {
@@ -182,7 +182,7 @@
 },
 {
   "nazev": "Kvído – Najdi zvíře",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
@@ -209,7 +209,7 @@
 },
 {
   "nazev": "Kvído – Najdi rozdíl",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
@@ -218,7 +218,7 @@
 },
 {
   "nazev": "Kvído – Tref komára!",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
@@ -227,7 +227,7 @@
 },
 {
   "nazev": "Kvído – Mláďata v kostce",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
@@ -236,7 +236,7 @@
 },
 {
   "nazev": "Kvído – Zachraň poklad",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
@@ -249,7 +249,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
-  "zanr": ["karetni", "logicke", "postrehove"],
+  "zanr": ["logicke", "postrehove"],
   "tema": "popkultura"
 },
 {
@@ -258,7 +258,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["fantasy"],
+  "zanr": ["rodinne"],
   "tema": "fantasy_mytologie"
 },
 {
@@ -267,7 +267,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["sportovni", "zrucnostni"],
+  "zanr": ["zrucnostni"],
   "tema": "sport"
 },
 {
@@ -662,7 +662,7 @@
   "vek": ["6-8", "9-12"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "narocnost": "jednoeducha",
+  "narocnost": "jednoducha",
   "zanr": ["rodinne", "postrehove"],
   "tema": "zvirata"
 },
@@ -776,7 +776,7 @@
 },
 {
   "nazev": "Kvído – Bingo na výlety",
-  "vek": ["4-8"],
+  "vek": ["3-5", "6-8"],
   "pocet_hracu": ["pro jednoho", "pro dva"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
