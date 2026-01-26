@@ -827,6 +827,458 @@
   "narocnost": "jednoducha",
   "zanr": ["postrehove", "party"],
   "tema": null
-}
+},
+  {
+    "nazev": "Rodinná trefa",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne", "party"],
+    "tema": null
+  },
+  {
+    "nazev": "Jungle Speed Safari",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove", "party"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Jeníček a Mařenka",
+    "vek": ["6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Jožin z bažin",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Děti z Carcassonne",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne", "budovatelske"],
+    "tema": null
+  },
+  {
+    "nazev": "Bulánci: Speciální jednotky",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "BrainBox: Harry Potter",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "fantasy_mytologie"
+  },
+  {
+    "nazev": "Hladové housenky",
+    "vek": ["3-5"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Pohádkáři",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["pribehove", "kreativni"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Ostrov",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Very Berry",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove"],
+    "tema": "jidlo"
+  },
+  {
+    "nazev": "Mlsný mravenečník",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Medvěd Wrr: Poprask na kolejích",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "MicroMacro: Město zločinu",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Z pohádky do pohádky",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Věž čarodějnic",
+    "vek": ["0-2", 3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni"],
+    "tema": "fantasy_mytologie"
+  },
+  {
+    "nazev": "Smolíček Pacholíček",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "SMART: Tři malá prasátka",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["logicke"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "SMART: Zámecké schody",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "České pohádky v kostce",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Myšlenkové mapy: Vývoj českého státu",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Únikovka: Golem",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "60+ minut",
+    "narocnost": "narocnejsi",
+    "zanr": ["pribehove"],
+    "tema": "fantasy_mytologie"
+  },
+  {
+    "nazev": "Mickey a kamarádi na výletě",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Bloom Town",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["budovatelske"],
+    "tema": null
+  },
+  {
+    "nazev": "Desítka! – rozšíření",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci", "party"],
+    "tema": null
+  },
+  {
+    "nazev": "Městečka na dlani",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "pro jednoho", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["budovatelske"],
+    "tema": null
+  },
+[
+  {
+    "nazev": "PixBlocks",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke", "kreativni"],
+    "tema": null
+  },
+  {
+    "nazev": "Strašák",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Expedice příroda: 50 dinosaurů",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": "dinosauri"
+  },
+  {
+    "nazev": "Azul: Vitráže Sintry",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke", "kreativni"],
+    "tema": null
+  },
+  {
+    "nazev": "SMART: Korálový útes",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": "priroda"
+  },
+  {
+    "nazev": "SMART: Králíci a nora",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["logicke"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Přemyslovci",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Maškarní bál",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party", "kreativni"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Ťuk! Ťuk! Podzemí",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Dobble Česko",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove", "party"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Activity: Sport",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": "sport"
+  },
+  {
+    "nazev": "Activity Junior Turbo",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Cink! Extrém",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni"],
+    "tema": "fantasy_mytologie"
+  },
+  {
+    "nazev": "Přečtu ti, mami",
+    "vek": ["3-5"],
+    "pocet_hracu": ["pro dva"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Dobble",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove", "party"],
+    "tema": null
+  },
+  {
+    "nazev": "Moje první Česko",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Farmerama",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne", "budovatelske"],
+    "tema": "priroda"
+  },
+  {
+    "nazev": "Ubongo",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "V kostce: Příroda",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": "priroda"
+  },
+  {
+    "nazev": "V kostce: Matematika",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["vzdelavaci"],
+    "tema": null
+  },
+  {
+    "nazev": "SMART: Vikingové v bouři",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Příběhy z kostek",
+    "vek": ["3-5", "6-8", "9-12"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["kreativni", "pribehove"],
+    "tema": null
+  },
+  {
+    "nazev": "Jenga",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["zrucnostni", "party"],
+    "tema": null
+  },
+  {
+    "nazev": "Qwirkle",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": null
+  },
+
  ]
 }
