@@ -1682,7 +1682,701 @@
   "narocnost": "jednoducha",
   "zanr": ["rodinne"],
   "tema": "pohadky"
+},
+{
+  "nazev": "Povím ti, mami",
+  "vek": ["3-5"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Povím ti, mami 2",
+  "vek": ["3-5"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Koncept",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["party", "kreativni"],
+  "tema": null
+},
+{
+  "nazev": "Labyrinth: Česká republika",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Labyrinth Junior",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Red7",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Machi Koro",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Přines si svou knihu",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci", "party"],
+  "tema": null
+},
+{
+  "nazev": "Port Royal",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["budovatelske"],
+  "tema": "dobrodruzstvi"
+},
+{
+  "nazev": "Jak jako jak?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "ICECOOL: Ledová škola",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["zrucnostni"],
+  "tema": null
+},
+{
+  "nazev": "Chodí pěšek okolo",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Kočka Karla",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Kingdomino",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Bílé historky",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["pribehove"],
+  "tema": null
+},
+{
+  "nazev": "Goblíci jedlíci",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Duch!",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Time’s Up! Rodina",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Noemova archa",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "SMART: Dinosauři – Tajemné ostrovy",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "dinosauri"
+},
+{
+  "nazev": "Slovopád",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci", "party"],
+  "tema": null
+},
+{
+  "nazev": "Tangramy: Zvířata",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "SMART: Parkoviště",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "doprava"
+},
+{
+  "nazev": "SMART: Na ledové kře",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "SMART: Tajemný chrám",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Skákej!",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "IQ Fit",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Čarovný les – Na cesty",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "SMART: Angry Birds – Útok!",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Myší království",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Lovci duchů",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "fantasy_mytologie"
+},
+{
+  "nazev": "IQ Puzzle Pro",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Příběhy z kostek: Výpravy",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kreativni", "pribehove"],
+  "tema": "dobrodruzstvi"
+},
+{
+  "nazev": "Příběhy z kostek: Akce",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kreativni", "pribehove"],
+  "tema": null
+},
+{
+  "nazev": "V kostce: Vesmír",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "V kostce: Dinosauři",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "dinosauri"
+},
+{
+  "nazev": "V kostce: Česká republika",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "historie"
+},
+{
+  "nazev": "V kostce: Zvířecí rodiny",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "V kostce: Pohádky",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Pexetrio: Znáš savce?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Zvířata – poznáš jejich rodinu?",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Pexetrio: Ovoce a zelenina",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio Kids: Moje první anglická slovíčka",
+  "vek": ["6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio Kids: Znáš barvy a tvary?",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Znáš naše stromy?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Pexetrio: Znáš naše byliny?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Pexetrio: Znáš dopravní prostředky?",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Pexetrio Plus: Znáš vodní zvířata?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Pexetrio: Znáš naše ptáky?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Pexetrio: Znáš naše houby?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Lascaux: Lov bez oštěpů",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "historie"
+},
+{
+  "nazev": "Twister",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni", "party"],
+  "tema": null
+},
+{
+  "nazev": "V kostce: Svět",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Bang!",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Catan – základní hra",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)"],
+  "herni_doba": "60+ minut",
+  "narocnost": "stredni",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "Activity Original",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "V říši pohádek",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "AMOS: Čeština v kostce",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Člověče, nezlob se!",
+  "vek": ["3-5", "6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": null
+},
+{
+  "nazev": "Kris Kros",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Ušáci a paroháči",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Zlaté Česko: Otázky a odpovědi",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Párty Alias",
+  "vek": ["13+"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["party"],
+  "tema": null
+},
+{
+  "nazev": "Dominion",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "SMART: Tučňáci na ledu",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Scrabble",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "60+ minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["vzdelavaci", "logicke"],
+  "tema": null
+},
+{
+  "nazev": "Dixit",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kreativni", "pribehove", "party"],
+  "tema": null
+},
+{
+  "nazev": "Mickeyho klubík",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Pexetrio: Tři oříšky pro Popelku",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "pohadky"
+},
+{
+  "nazev": "Pexetrio: Záchranáři",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Znáš naše vlaky?",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Pexetrio: Zvířátka na statku",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Pexetrio: Povolání",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Státy Evropy",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Malý kutil",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Měsíce v roce",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": null
+},
+{
+  "nazev": "Pexetrio: Dinosauři",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "dinosauri"
 }
+
 
 ]
 }
