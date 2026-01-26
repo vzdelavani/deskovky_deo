@@ -2744,8 +2744,196 @@
   "narocnost": "stredni",
   "zanr": ["budovatelske"],
   "tema": null
-}
-
+},
+{
+    "nazev": "Port Royal – rozšíření",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["rodinne"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Keetoo",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove"],
+    "tema": null
+  },
+  {
+    "nazev": "Jedním slovem",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "Lotos",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": "priroda"
+  },
+  {
+    "nazev": "Kockatoo",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Grabolo",
+    "vek": ["6-8", "9-12","13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove"],
+    "tema": null
+  },
+  {
+    "nazev": "Grabolo 3D",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["postrehove"],
+    "tema": null
+  },
+  {
+    "nazev": "Carcassonne Safari",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["budovatelske", "rodinne"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "SMART: Barevný lov",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro jednoho"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "Vadí, nevadí aneb nejsme všichni stejní",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": null
+  },
+  {
+    "nazev": "Veselé hry s Krtečkem",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "pohadky"
+  },
+  {
+    "nazev": "Timeline: Klasik",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Señor Pepper",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "Timeline: Vynálezy",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Timeline: Události",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["vzdelavaci"],
+    "tema": "historie"
+  },
+  {
+    "nazev": "Jurská véča",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": "dinosauri"
+  },
+  {
+    "nazev": "Párty Alias: Hádej, kdo jsi",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": null
+  },
+  {
+    "nazev": "Hadi a žebříky",
+    "vek": ["3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne"],
+    "tema": null
+  },
+  {
+    "nazev": "Krycí jména",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["party", "logicke"],
+    "tema": null
+  },
+  {
+    "nazev": "Kraken zuří",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["party"],
+    "tema": "dobrodruzstvi"
+  },
+  {
+    "nazev": "Krycí jména: Obrázky",
+    "vek": ["9-12", "13+"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "30-60 minut",
+    "narocnost": "stredni",
+    "zanr": ["party", "logicke"],
+    "tema": null
+  }
 
 ]
 }
