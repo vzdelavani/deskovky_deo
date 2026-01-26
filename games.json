@@ -965,7 +965,7 @@
   },
   {
     "nazev": "Věž čarodějnic",
-    "vek": ["0-2", 3-5", "6-8"],
+    "vek": ["0-2", "3-5", "6-8"],
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "do 15 minut",
     "narocnost": "jednoducha",
