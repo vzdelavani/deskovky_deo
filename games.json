@@ -2375,6 +2375,177 @@
   "narocnost": "jednoducha",
   "zanr": ["vzdelavaci"],
   "tema": "dinosauri"
+},
+{
+  "nazev": "Quoridor",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Safari Bar",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove", "party"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Dům snů",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["budovatelske"],
+  "tema": null
+},
+{
+  "nazev": "V pasti!",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["logicke"],
+  "tema": null
+},
+{
+  "nazev": "Azul",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["logicke", "kreativni"],
+  "tema": null
+},
+{
+  "nazev": "Expedice příroda: 50 našich motýlů",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro jednoho", "pro dva"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["vzdelavaci"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Patchwork",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["pro dva"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke", "kreativni"],
+  "tema": null
+},
+{
+  "nazev": "Zasni se!",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kreativni", "pribehove"],
+  "tema": null
+},
+{
+  "nazev": "Mňam!",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
+},
+{
+  "nazev": "Super Farmer: The Dice Game",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Jungle Speed",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "stredni",
+  "zanr": ["postrehove", "party"],
+  "tema": null
+},
+{
+  "nazev": "Louka: Jak vyšitá",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 30 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["budovatelske", "rodinne"],
+  "tema": "priroda"
+},
+{
+  "nazev": "Farao: Tajemství prastaré hrobky",
+  "vek": ["6-8", "9-12"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["logicke"],
+  "tema": nzll
+},
+{
+  "nazev": "Ovocný sad",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["kooperativni", "rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Jízdenky, prosím! Evropa",
+  "vek": ["9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "60+ minut",
+  "narocnost": "narocnejsi",
+  "zanr": ["budovatelske"],
+  "tema": "doprava"
+},
+{
+  "nazev": "Kuřecí olympiáda",
+  "vek": ["3-5", "6-8"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["zrucnostni"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Velbloudí dostihy: Superpohár",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "30-60 minut",
+  "narocnost": "stredni",
+  "zanr": ["rodinne"],
+  "tema": "zvirata"
+},
+{
+  "nazev": "Yogi",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["party", "zrucnostni"],
+  "tema": null
+},
+{
+  "nazev": "Gobbit",
+  "vek": ["6-8", "9-12", "13+"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
+  "herni_doba": "do 15 minut",
+  "narocnost": "jednoducha",
+  "zanr": ["postrehove"],
+  "tema": null
 }
 
 
