@@ -188,6 +188,13 @@
 let games = [];
 
 const labels = {
+  vek: {
+    "0-2": "0–2 roky",
+    "3-5": "3–5 let",
+    "6-8": "6–8 let",
+    "9-12": "9–12 let",
+    "13+": "13+ let"
+  },
   narocnost: {
     jednoducha: "Jednoduchá",
     stredni: "Střední",
@@ -241,7 +248,11 @@ function renderGames(list) {
     div.classList.add("game-row");
     div.innerHTML = `
       <strong>${game.nazev}</strong><br>
-      Věk: ${game.vek.join(", ")}<br>
+      Věk: ${
+        game.vek
+        ?.map(v => labels.vek[v] ?? v)
+        .join(", ") ?? "—"
+      }<br>
       Počet hráčů: ${game.pocet_hracu.join(", ")}<br>
       Herní doba: ${game.herni_doba}<br>
       Náročnost: ${labels.narocnost[game.narocnost] ?? game.narocnost}<br>
