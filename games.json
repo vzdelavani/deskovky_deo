@@ -3104,7 +3104,36 @@
     "narocnost": "jednoducha",
     "zanr": ["vzdelavaci"],
     "tema": null
+  },
+    [
+  {
+    "nazev": "Draftosaurus",
+    "vek": ["6-8", "9-12"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["strategicke", "logicke"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Little Cooperation",
+    "vek": ["2-5", "3-5", "6-8"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["kooperativni"],
+    "tema": "zvirata"
+  },
+  {
+    "nazev": "Minecraft Explorers",
+    "vek": ["6-8", "9-12", "13+"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "narocnost": "stredni",
+    "zanr": ["kooperativni"],
+    "tema": "fantasy_mytologie"
   }
+]
 
 ]
 }
