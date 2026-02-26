@@ -230,7 +230,6 @@ const labels = {
 fetch("./games.json")
   .then(res => res.json())
   .then(data => {
-    console.log("NAČTENÉ HRY:", data.games.map(g => g.nazev));
     games = data.games;
     renderGames(games);
   });
