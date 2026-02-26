@@ -802,15 +802,6 @@
   "tema": "doprava"
 },
 {
-  "nazev": "Catan – základní hra",
-  "vek": ["9-12", "13+"],
-  "pocet_hracu": ["mala skupina (3-4)"],
-  "herni_doba": "60+ minut",
-  "narocnost": "narocnejsi",
-  "zanr": ["budovatelske"],
-  "tema": null
-},
-{
   "nazev": "Výbušná koťátka: Štěkající koťátka",
   "vek": ["9-12", "13+"],
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
