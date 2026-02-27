@@ -51,7 +51,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
-  "zanr": ["logicke", "rodinne"],
+  "zanr": ["rodinne"],
   "tema": "pohadky"
 },
 {
@@ -132,7 +132,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["logicke", "rodinne"],
+  "zanr": ["rodinne"],
   "tema": null
 },
 {
@@ -150,7 +150,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["logicke"],
+  "zanr": ["rodinne"],
   "tema": "pohadky"
 },
 {
@@ -165,15 +165,15 @@
 {
   "nazev": "Přes železnou oponu",
   "vek": ["9-12", "13+"],
-  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
-  "zanr": ["logicke", "vzdelavaci"],
+  "zanr": ["vzdelavaci"],
   "tema": "historie"
 },
 {
   "nazev": "Smíšený les",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
@@ -245,15 +245,15 @@
 },
 {
   "nazev": "Taco, kotě, pizza",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
-  "zanr": ["logicke", "postrehove"],
-  "tema": "popkultura"
+  "zanr": ["party", "postrehove"],
+  "tema": null
 },
 {
-  "nazev": "Draci strážce",
+  "nazev": "Dračí strážce",
   "vek": ["6-8", "9-12"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
@@ -267,7 +267,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["zrucnostni"],
+  "zanr": ["strategicke"],
   "tema": "sport"
 },
 {
@@ -335,7 +335,7 @@
 },
 {
   "nazev": "Výbušná koťátka",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
@@ -479,7 +479,7 @@
 },
 {
   "nazev": "Listí",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
@@ -488,7 +488,7 @@
 },
 {
   "nazev": "Listí: Medvědí období",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
@@ -623,7 +623,7 @@
 },
 {
   "nazev": "Liška podšitá",
-  "vek": ["6-8", "9-12"],
+  "vek": ["6-8", "9-12", "13+"],
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
@@ -726,7 +726,7 @@
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["kooperativni"],
+  "zanr": ["kooperativni", "party"],
   "tema": "dobrodruzstvi"
 },
 {
@@ -744,7 +744,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
-  "zanr": ["rodinne"],
+  "zanr": ["rodinne", "strategicke"],
   "tema": "zviratka"
 },
 {
@@ -798,7 +798,7 @@
   "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
-  "zanr": ["logicke", "budovatelske"],
+  "zanr": ["strategicke", "budovatelske"],
   "tema": "doprava"
 },
 {
@@ -821,7 +821,7 @@
 },
   {
     "nazev": "Rodinná trefa",
-    "vek": ["6-8", "9-12"],
+    "vek": ["6-8", "9-12", "13+"],
     "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
     "narocnost": "jednoducha",
@@ -830,7 +830,7 @@
   },
   {
     "nazev": "Jungle Speed Safari",
-    "vek": ["6-8", "9-12"],
+    "vek": ["6-8", "9-12", "13+"],
     "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 15 minut",
     "narocnost": "jednoducha",
@@ -848,7 +848,7 @@
   },
   {
     "nazev": "Jožin z bažin",
-    "vek": ["9-12", "13+"],
+    "vek": ["6-8", "9-12"],
     "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
     "narocnost": "jednoducha",
@@ -1356,7 +1356,7 @@
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["party"],
+  "zanr": ["party", "pribehove"],
   "tema": null
 },
 {
@@ -1365,7 +1365,7 @@
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["party"],
+  "zanr": ["party", "pribehove"],
   "tema": null
 },
 {
@@ -1374,7 +1374,7 @@
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
-  "zanr": ["party"],
+  "zanr": ["party", "pribehove"],
   "tema": null
 },
 {
@@ -1708,7 +1708,7 @@
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
   "zanr": ["rodinne"],
-  "tema": null
+  "tema": "dobrodruzstvi"
 },
 {
   "nazev": "Labyrinth Junior",
@@ -1717,7 +1717,7 @@
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
   "zanr": ["rodinne"],
-  "tema": null
+  "tema": "dobrodruzstvi"
 },
 {
   "nazev": "Red7",
@@ -1806,7 +1806,7 @@
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["pribehove"],
+  "zanr": ["pribehove", "kreativni"],
   "tema": null
 },
 {
@@ -1924,7 +1924,7 @@
   "herni_doba": "do 15 minut",
   "narocnost": "jednoducha",
   "zanr": ["logicke"],
-  "tema": "fantasy_mytologie"
+  "tema": null
 },
 {
   "nazev": "SMART: Angry Birds – Útok!",
@@ -1951,7 +1951,7 @@
   "herni_doba": "do 30 minut",
   "narocnost": "stredni",
   "zanr": ["logicke"],
-  "tema": "fantasy_mytologie"
+  "tema": null
 },
 {
   "nazev": "IQ Puzzle Pro",
@@ -2400,7 +2400,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
   "narocnost": "jednoducha",
-  "zanr": ["logicke"],
+  "zanr": ["logicke", "kreativni"],
   "tema": null
 },
 {
@@ -2482,7 +2482,7 @@
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
   "zanr": ["logicke"],
-  "tema": null
+  "tema": "dobrodruzstvi"
 },
 {
   "nazev": "Ovocný sad",
@@ -2635,7 +2635,7 @@
   "herni_doba": "30-60 minut",
   "narocnost": "stredni",
   "zanr": ["budovatelske"],
-  "tema": null
+  "tema": "fantasy_mytologie"
 },
 {
   "nazev": "Ďábelský profesor a Citadela času",
@@ -2760,7 +2760,7 @@
     "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
     "narocnost": "jednoducha",
-    "zanr": ["party"],
+    "zanr": ["party", "kreativni"],
     "tema": null
   },
   {
